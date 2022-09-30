@@ -1,2 +1,2 @@
 # PractiseGits
-This is a practise repo.This is only for mybranch
+This is a practise repo.This is only for mybranch. Merging it myBranch
